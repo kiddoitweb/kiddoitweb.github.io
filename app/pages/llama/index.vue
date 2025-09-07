@@ -3,7 +3,7 @@
         class="space-y-4 relative border border-gray-300 ring-4 ring-gray-50 rounded-lg overflow-hidden"
     >
         <div class="w-full">
-            <nuxt-img class="w-full" src="llama.jpeg" alt="Llama Image" />
+            <img class="w-full" src="/llama.jpeg" alt="Llama" />
         </div>
         <!-- <hr class="my-4" /> -->
 
@@ -41,7 +41,7 @@ import { ref } from "vue";
 
 const audioElement = ref<HTMLAudioElement>();
 const isPlaying = ref(false);
-const audioSrc = "llama.mp3";
+const audioSrc = "/llama.mp3";
 
 const togglePlay = () => {
     if (!audioElement.value) return;
