@@ -4,9 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ["~/assets/css/main.css"],
   ssr: false,
-  app: {
-    baseURL: "kiddoitweb.github.io",
-  },
   ui: {
     colorMode: false,
   },
