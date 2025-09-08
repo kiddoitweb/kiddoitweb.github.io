@@ -35,7 +35,7 @@
                 </button>
             </div>
         </div>
-        <div class="grid grid-cols-1 sm:grid-cols-2 p-4 bg-gray-50 relative border border-gray-300 ring-4 ring-gray-50 rounded-lg overflow-hidden">
+        <div class="grid grid-cols-1 sm:grid-cols-2 p-4 space-y-4 sm:space-y-0 bg-gray-50 relative border border-gray-300 ring-4 ring-gray-50 rounded-lg overflow-hidden">
             <div>
                 <h3 class="font-bold leading-9">محتوای درون پکیج</h3>
                 <ul class="leading-7">
@@ -46,7 +46,7 @@
                     <li class="flex align-middle items-center"><UIcon name="solar:alt-arrow-left-bold-duotone" size="20"/> فایل صوتی فارسی کتاب</li>
                 </ul>
             </div>
-            <div class="text-center sm:pt-18">
+            <div class="text-center sm:pt-16">
                 <div class="relative inline-flex  group items-center justify-center">
                     <div
                         class="absolute transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
