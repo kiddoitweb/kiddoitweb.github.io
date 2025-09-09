@@ -51,7 +51,7 @@
                     <div
                         class="absolute transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
                     </div>
-                    <a href="tel:1234567890" title="خرید پکیج"
+                    <a href="tel:+989103309648" title="خرید پکیج"
                         class="relative inline-flex items-center justify-center font-light px-6 py-2 text-md text-white transition-all duration-200 bg-gradient-to-br from-red-700 to-orange-600 rounded-md"
                         role="button">خرید پکیج
                     </a>
